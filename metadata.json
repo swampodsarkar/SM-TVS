@@ -1,0 +1,6 @@
+{
+  "name": "SM TV",
+  "description": "Premium Live IPTV and Sports Box layout using Sophisticated Dark theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
